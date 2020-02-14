@@ -1,5 +1,5 @@
 {
-  "name": "console-style",
+  "name": "rich-output",
   "version": "1.0.0",
   "description": "A lightweight cross-platform dependency-free wide-support blazing-fast library to help you customize your app's output the way you want, having nearly 40, the library allows nested styles for maximum customization.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrAugu/console-style.git"
+    "url": "git+https://github.com/MrAugu/rich-output.git"
   },
   "keywords": [
     "color",
@@ -19,12 +19,18 @@
     "colour",
     "chalk",
     "color.js",
-    "terminal-color"
+    "terminal-color",
+    "rich-output",
+    "rich",
+    "output",
+    "lightweight",
+    "cross-platform",
+    "dependency-free"
   ],
   "author": "MrAugu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MrAugu/console-style/issues"
+    "url": "https://github.com/MrAugu/rich-output/issues"
   },
-  "homepage": "https://github.com/MrAugu/console-style#readme"
+  "homepage": "https://github.com/MrAugu/rich-output#readme"
 }
