@@ -1,0 +1,30 @@
+{
+  "name": "console-style",
+  "version": "1.0.0",
+  "description": "A lightweight cross-platform dependency-free wide-support blazing-fast library to help you customize your app's output the way you want, having nearly 40, the library allows nested styles for maximum customization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAugu/console-style.git"
+  },
+  "keywords": [
+    "color",
+    "console",
+    "style",
+    "console-style",
+    "console-color",
+    "colour",
+    "chalk",
+    "color.js",
+    "terminal-color"
+  ],
+  "author": "MrAugu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrAugu/console-style/issues"
+  },
+  "homepage": "https://github.com/MrAugu/console-style#readme"
+}
