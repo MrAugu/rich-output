@@ -1,5 +1,7 @@
 # rich-output
-A lightweight cross-platform dependency-free wide-support blazing-fast library to help you customize your app's output the way you want, having nearly 40, the library allows nested styles for maximum customization.
+** Does not use `util.format`.
+
+A lightweight cross-platform dependency-free wide-support blazing-fast library to help you customize your app's output the way you want, having nearly 40 methods, the library allows nested styles for maximum customization.
 
 # Installation
 ```
