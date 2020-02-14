@@ -1,6 +1,6 @@
 {
   "name": "rich-output",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight cross-platform dependency-free wide-support blazing-fast library to help you customize your app's output the way you want, having nearly 40, the library allows nested styles for maximum customization.",
   "main": "index.js",
   "scripts": {
