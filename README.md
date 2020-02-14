@@ -48,3 +48,10 @@ console.log(`This is ${ConsoleStyle.bgBrightMagenta("bright magenta background")
 console.log(`This is ${ConsoleStyle.bgBrightCyan("bright cyan background")}.`);
 console.log(`This is ${ConsoleStyle.bgBrightWhite("bright white background")}.`);
 ```
+# Samples
+## 1.Command Prompt
+![cmd-prompt-sample](https://raw.githubusercontent.com/MrAugu/console-style/master/samples/command-prompt-sample.png)
+## 2. Visual Studio Code Cmd
+![vsc-sample](https://raw.githubusercontent.com/MrAugu/console-style/master/samples/visual-studio-command-prompt.png)
+## 3. Windows Powershell
+![powershell-sample](https://raw.githubusercontent.com/MrAugu/console-style/master/samples/windows-powershell-samples.png)
